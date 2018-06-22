@@ -1,5 +1,5 @@
 
 # Comming Soon
-* Login Batch
+* Register Account
 * Game Batch
 * Menu Batch
