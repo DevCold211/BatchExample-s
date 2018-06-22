@@ -26,11 +26,6 @@ if %pass% == (
 )
 
 
-:error
-echo Problem Founded
-pause >nul
-exit
-
 :final
 cls
 echo Worked or glitched
