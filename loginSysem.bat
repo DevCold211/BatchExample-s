@@ -6,7 +6,7 @@ goto login
 :login
 set /p user="Username; "
 
-if %user% == wplayz (
+if %user% == PUT YOUR USERNAME HERE (
 goto pass
 )
 
@@ -17,7 +17,7 @@ if %user% == (
 cls
 set /p pass=Password; 
 
-if %pass% == cm (
+if %pass% == PUT YOUR PASSWORD HERE (
 goto final
 )
 
