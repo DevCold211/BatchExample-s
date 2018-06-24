@@ -3,7 +3,7 @@
 * Game Batch
 * Name Sayer (Finished)
 * Menu Batch (Finished)
-* Start Up A WEBSITE
+* Start Up A WEBSITE (FINISHED)
 * More Soon
 
 # Regsiter Account Batch
