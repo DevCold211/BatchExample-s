@@ -24,7 +24,8 @@ exit
 )
 
 :startgame
-call "TheGame.bat"
+cd %userprofile%\Desktop\src\Nights
+call "night1.bat"
 exit
 
 :set
