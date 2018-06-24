@@ -6,6 +6,9 @@
 * Start Up A WEBSITE (FINISHED)
 * More Soon
 
+# Start Up A WEBSITE Batch
+* starts up a website affter you confirm it
+
 # Regsiter Account Batch
 * Havent Done
 
